@@ -3,7 +3,7 @@ Match report for Fleetwood Town vs Wycombe Wanderers 11/02/2020 which contains a
 ## Program Description and Structure
 Check the demo notebook to see examples of the analyses and plots and detailed descriptions.
 ## How users get started
-1. Run requirements.txt
+1. Run setup.py
 2. Load your Statsbomb match data as a csv into the data folder
 3. Run demo_nb.ipynb
 ## Maintenance and Support
